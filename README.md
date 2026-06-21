@@ -1,1 +1,18 @@
-# Grow-A-Garden-2-Macro
+# Changelog:
+- Release
+
+
+
+# Info:
+- dc ```szymsx```
+- I allow for distribution of my projects WHILE keeping MY credits as the owner
+
+## Requirements
+- Windows 10/11
+- AutoHotkey v2.0
+
+## Important
+- Use my projects AT YOUR OWN RISK!
+
+## Update
+- 21.06.2026
