@@ -4,7 +4,7 @@
 
 - UI made by Kaguya
 
-## How To Download ? :
+## How To Download:
 - Click "Code <>"
 - Click "Download ZIP"
 - Extract Folder from the ZIP
