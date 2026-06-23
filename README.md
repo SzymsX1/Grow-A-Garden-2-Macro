@@ -2,9 +2,13 @@
 - Release
 
 
-
-# Info:
 - UI made by Kaguya
+# Info:
+## How To Download ? :
+- Click "Code <>"
+- Click "Download ZIP"
+- Extract Folder from the ZIP
+
 - dc ```szymsx```
 - I allow for distribution of my projects WHILE keeping MY credits as the owner
 
