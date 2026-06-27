@@ -15,7 +15,7 @@
 
 ## Requirements
 - Windows 10/11
-- AutoHotkey v2.0
+- [AutoHotkey v2+](https://www.autohotkey.com/download/ahk-v2.exe)
 
 ## Important
 - Use my projects AT YOUR OWN RISK!
